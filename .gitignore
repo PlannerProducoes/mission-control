@@ -1,0 +1,6 @@
+node_modules
+dist
+.env
+.convex
+.system_generated
+*.log
